@@ -3,6 +3,7 @@
                             MUSIC BOX
                         Design Documentation
                          Terminal Edition
+                          Micajah Nordyke
 ================================================================================
 
 TABLE OF CONTENTS
